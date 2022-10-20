@@ -1,3 +1,3 @@
 # Custom-Shell Tests
 
-![](example/Screen Shot 2022-10-07 at 12.48.02 AM.png)
+![](example/Screen%20Shot%202022-10-07%20at%2012.48.02%20AM.png)
